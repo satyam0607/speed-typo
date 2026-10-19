@@ -1,0 +1,6 @@
+{
+  "name": "SyntaxType: Learn & Code Typing Speed",
+  "description": "Learn programming vocabulary and practice real code syntax typing speed with live WPM tracking, accuracy feedback, and multi-language drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
